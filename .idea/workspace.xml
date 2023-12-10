@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="8d6351d3-8c57-47ed-8313-6f5a8ef37a65" name="Changes" comment="UltraFastLaneDetectionV2.ipynb" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+        <option value="Jupyter Notebook" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
+  <component name="ProjectId" id="2Z7LBpnGUge34bAwZen4uCRVeEY" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/bensc/Projects/AI_CaseBasedReasoning&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\bensc\Projects\additions_to_conv_lane_detect" />
+      <recent name="C:\Users\bensc\Projects\additions_to_conv_lane_detect\license_detection_with_SSD-MobileNet_and_OCR" />
+      <recent name="C:\Users\bensc\Projects\additions_to_conv_lane_detect\data\license_plate_images" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\bensc\Projects\additions_to_conv_lane_detect\license_detection_with_SSD-MobileNet_and_OCR\Mobilenet-SSD-to-detect-Licence-Plate" />
+      <recent name="C:\Users\bensc\Projects\additions_to_conv_lane_detect" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8d6351d3-8c57-47ed-8313-6f5a8ef37a65" name="Changes" comment="" />
+      <created>1701768037681</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1701768037681</updated>
+      <workItem from="1701768038801" duration="4616000" />
+      <workItem from="1701773289022" duration="6019000" />
+      <workItem from="1701786763876" duration="859000" />
+      <workItem from="1701787786435" duration="1099000" />
+      <workItem from="1701789185402" duration="511000" />
+      <workItem from="1701794951434" duration="18877000" />
+      <workItem from="1701871117731" duration="532000" />
+      <workItem from="1701871671405" duration="633000" />
+      <workItem from="1701872327600" duration="326000" />
+      <workItem from="1701872822338" duration="9682000" />
+      <workItem from="1701984150641" duration="678000" />
+      <workItem from="1702210400127" duration="1075000" />
+    </task>
+    <task id="LOCAL-00001" summary="initial data">
+      <option name="closed" value="true" />
+      <created>1701769499346</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1701769499346</updated>
+    </task>
+    <task id="LOCAL-00002" summary="initial data">
+      <option name="closed" value="true" />
+      <created>1701789252142</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1701789252142</updated>
+    </task>
+    <task id="LOCAL-00003" summary="finished license plate detection">
+      <option name="closed" value="true" />
+      <created>1701872530309</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1701872530309</updated>
+    </task>
+    <task id="LOCAL-00004" summary="README.md">
+      <option name="closed" value="true" />
+      <created>1701873406301</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1701873406301</updated>
+    </task>
+    <task id="LOCAL-00005" summary="UltraFastLaneDetectionV2.ipynb">
+      <option name="closed" value="true" />
+      <created>1701940983371</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1701940983371</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="initial data" />
+    <MESSAGE value="finished license plate detection" />
+    <MESSAGE value="README.md" />
+    <MESSAGE value="UltraFastLaneDetectionV2.ipynb" />
+    <option name="LAST_COMMIT_MESSAGE" value="UltraFastLaneDetectionV2.ipynb" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/license_detection_with_SSD-MobileNet_and_OCR/scan_license_plates.py</url>
+          <line>32</line>
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/additions_to_conv_lane_detect$test_yolo.coverage" NAME="test_yolo Coverage Results" MODIFIED="1701802660792" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/license_detection_with_SSD-MobileNet_and_OCR" />
+    <SUITE FILE_PATH="coverage/additions_to_conv_lane_detect$detector_image.coverage" NAME="detector_image Coverage Results" MODIFIED="1701784689427" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/license_detection_with_SSD-MobileNet_and_OCR/MobilenetSSDtoDetectLicencePlate" />
+    <SUITE FILE_PATH="coverage/additions_to_conv_lane_detect$test.coverage" NAME="test Coverage Results" MODIFIED="1701803019952" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/license_detection_with_SSD-MobileNet_and_OCR" />
+    <SUITE FILE_PATH="coverage/additions_to_conv_lane_detect$scan_license_plates.coverage" NAME="scan_license_plates Coverage Results" MODIFIED="1701871677118" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/license_detection_with_SSD-MobileNet_and_OCR" />
+    <SUITE FILE_PATH="coverage/additions_to_conv_lane_detect$setup.coverage" NAME="setup Coverage Results" MODIFIED="1701770212445" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/openalpr_64/python" />
+  </component>
+</project>
