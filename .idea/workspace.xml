@@ -4,11 +4,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8d6351d3-8c57-47ed-8313-6f5a8ef37a65" name="Changes" comment="UltraFastLaneDetectionV2.ipynb" />
+    <list default="true" id="8d6351d3-8c57-47ed-8313-6f5a8ef37a65" name="Changes" comment="idea" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" show_ignored="true">
+    <option name="groupingKeys">
+      <option value="directory" />
+    </option>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -17,6 +22,9 @@
         <option value="Jupyter Notebook" />
       </list>
     </option>
+  </component>
+  <component name="Git.Rebase.Settings">
+    <option name="NEW_BASE" value="origin/main" />
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -79,6 +87,7 @@
       <workItem from="1701872822338" duration="9682000" />
       <workItem from="1701984150641" duration="678000" />
       <workItem from="1702210400127" duration="1075000" />
+      <workItem from="1702211502774" duration="204000" />
     </task>
     <task id="LOCAL-00001" summary="initial data">
       <option name="closed" value="true" />
@@ -120,7 +129,23 @@
       <option name="project" value="LOCAL" />
       <updated>1701940983371</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="license plate">
+      <option name="closed" value="true" />
+      <created>1702211556272</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1702211556272</updated>
+    </task>
+    <task id="LOCAL-00007" summary="idea">
+      <option name="closed" value="true" />
+      <created>1702211641067</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1702211641067</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -131,7 +156,19 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="main" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
           </value>
         </entry>
       </map>
@@ -142,7 +179,9 @@
     <MESSAGE value="finished license plate detection" />
     <MESSAGE value="README.md" />
     <MESSAGE value="UltraFastLaneDetectionV2.ipynb" />
-    <option name="LAST_COMMIT_MESSAGE" value="UltraFastLaneDetectionV2.ipynb" />
+    <MESSAGE value="license plate" />
+    <MESSAGE value="idea" />
+    <option name="LAST_COMMIT_MESSAGE" value="idea" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
