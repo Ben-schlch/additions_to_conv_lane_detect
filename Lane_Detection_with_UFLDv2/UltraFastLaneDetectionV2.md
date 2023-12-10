@@ -65,6 +65,6 @@ xx
 xx
 
 The videos can be found here:
-- [Project Video](./project_video_inference/project_video_inferred.mp4)
-- [Challenge Video](./project_video_inference/challenge_video_inferred.mp4)
-- [Harder Challenge Video](./project_video_inference/harder_challenge_inferred.mp4)
+- [Project Video](../data/project_video_inference/project_video_inferred.mp4)
+- [Challenge Video](../data/project_video_inference/challenge_video_inferred.mp4)
+- [Harder Challenge Video](../data/project_video_inference/harder_challenge_inferred.mp4)

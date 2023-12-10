@@ -4,7 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8d6351d3-8c57-47ed-8313-6f5a8ef37a65" name="Changes" comment="idea" />
+    <list default="true" id="8d6351d3-8c57-47ed-8313-6f5a8ef37a65" name="Changes" comment="idea">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lane_Detection_with_UFLDv2/UltraFastLaneDetectionV2.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Lane_Detection_with_UFLDv2/UltraFastLaneDetectionV2.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lane_Detection_with_UFLDv2/UltraFastLaneDetectionV2.md" beforeDir="false" afterPath="$PROJECT_DIR$/Lane_Detection_with_UFLDv2/UltraFastLaneDetectionV2.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lane_Detection_with_UFLDv2/project_video_inference/challenge_video_inferred.mp4" beforeDir="false" afterPath="$PROJECT_DIR$/data/project_video_inference/challenge_video_inferred.mp4" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lane_Detection_with_UFLDv2/project_video_inference/harder_challenge_inferred.mp4" beforeDir="false" afterPath="$PROJECT_DIR$/data/project_video_inference/harder_challenge_inferred.mp4" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lane_Detection_with_UFLDv2/project_video_inference/project_video_inferred.mp4" beforeDir="false" afterPath="$PROJECT_DIR$/data/project_video_inference/project_video_inferred.mp4" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -63,6 +70,7 @@
       <recent name="C:\Users\bensc\Projects\additions_to_conv_lane_detect\data\license_plate_images" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\bensc\Projects\additions_to_conv_lane_detect\data" />
       <recent name="C:\Users\bensc\Projects\additions_to_conv_lane_detect\license_detection_with_SSD-MobileNet_and_OCR\Mobilenet-SSD-to-detect-Licence-Plate" />
       <recent name="C:\Users\bensc\Projects\additions_to_conv_lane_detect" />
     </key>
@@ -88,6 +96,7 @@
       <workItem from="1701984150641" duration="678000" />
       <workItem from="1702210400127" duration="1075000" />
       <workItem from="1702211502774" duration="204000" />
+      <workItem from="1702211732087" duration="327000" />
     </task>
     <task id="LOCAL-00001" summary="initial data">
       <option name="closed" value="true" />
@@ -145,7 +154,15 @@
       <option name="project" value="LOCAL" />
       <updated>1702211641067</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="idea">
+      <option name="closed" value="true" />
+      <created>1702211740054</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1702211740054</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
