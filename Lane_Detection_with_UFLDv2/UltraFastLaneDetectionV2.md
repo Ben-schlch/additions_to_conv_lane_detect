@@ -57,14 +57,11 @@ softmax function to get the final output of the model.
 To read more about the architecture, like the loss function used, please refer to the [paper](https://arxiv.org/abs/2206.07389).
 ## Results 
 
-We used the Ultra Fast Lane Detection V2 with the pretrained Model on the 3 provided videos (project, challenge, harder challenge) and also measured fps while doing so.
-
-The computer setup we used is: 
-xxx
-xx
-xx
+We used the Ultra Fast Lane Detection V2 with the pretrained Model on the 3 provided videos (project, challenge, harder challenge).
 
 The videos can be found here:
 - [Project Video](../data/project_video_inference/project_video_inferred.mp4)
 - [Challenge Video](../data/project_video_inference/challenge_video_inferred.mp4)
 - [Harder Challenge Video](../data/project_video_inference/harder_challenge_inferred.mp4)
+
+The results on the Project Video and on the Challenge Video for a pretrained model are pretty good. Especially the detection of multiple lanes and the detection through other objects is remarkable. But the harder Challenge Video is just also too difficult for the pretrained Model.
